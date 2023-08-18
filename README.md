@@ -19,3 +19,6 @@ It is not my genre to limit our opportunity and thought simply by defining an in
 - LinkedIn: Sudip Neupane (https://www.linkedin.com/in/sudip-neupane-a6762b215/)
 
 Feel free to reach out, and let's chat about all things JavaScript and coding!
+
+[![Neupane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neup-sudip&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/neup-sudip)
+
