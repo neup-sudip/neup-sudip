@@ -9,8 +9,9 @@ It is not my genre to limit our opportunity and thought simply by defining an in
 
 ## 🚀 Skills and Technologies
 
-- **Languages:** JavaScript (ES6+), HTML, CSS
-- **Frameworks:** React, Node.js
+- **Languages:** JavaScript (ES6+), Java, C, Python
+- **Frameworks:** NextJS, Express.js
+- **Libraries:** ReactJS
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, VS Code
 
