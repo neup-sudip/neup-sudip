@@ -1,6 +1,6 @@
 # Hi there, I'm Sudip Neupane 👋
 
-I'm a passionate JavaScript/MERN/SpringBoot developer, constantly learning and building cool things with code. Welcome to my GitHub profile!
+I'm a passionate JavaScript/SpringBoot/MERN developer, constantly learning and building cool things with code. Welcome to my GitHub profile!
 
 I'll call myself an inquisitive hustler. I believe in the third eye, a different perspective of thinking to solve even trivial problems. 
 Rather than working on a solution, I spend more time analyzing the problem. 
