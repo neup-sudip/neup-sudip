@@ -1,6 +1,6 @@
 # Hi there, I'm Sudip Neupane 👋
 
-I'm a passionate JavaScript/MERN developer, constantly learning and building cool things with code. Welcome to my GitHub profile!
+I'm a passionate JavaScript/MERN/SpringBoot developer, constantly learning and building cool things with code. Welcome to my GitHub profile!
 
 I'll call myself an inquisitive hustler. I believe in the third eye, a different perspective of thinking to solve even trivial problems. 
 Rather than working on a solution, I spend more time analyzing the problem. 
@@ -10,10 +10,10 @@ It is not my genre to limit our opportunity and thought simply by defining an in
 ## 🚀 Skills and Technologies
 
 - **Languages:** JavaScript (ES6+), Java, C, Python
-- **Frameworks:** NextJS, Express.js
+- **Frameworks:** SpringBot, NextJS, Express.js
 - **Libraries:** ReactJS
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, VS Code
+- **Databases:** MongoDB, MySQL, PostgreSql
+- **Tools:** Git, VS Code, Intellij
 
 ## 📫 Let's Connect
 
