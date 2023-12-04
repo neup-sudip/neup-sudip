@@ -10,7 +10,7 @@ It is not my genre to limit our opportunity and thought simply by defining an in
 ## 🚀 Skills and Technologies
 
 - **Languages:** JavaScript (ES6+), Java, C, Python
-- **Frameworks:** SpringBot, NextJS, Express.js
+- **Frameworks:** SpringBoot, NextJS, Express.js
 - **Libraries:** ReactJS
 - **Databases:** MongoDB, MySQL, PostgreSql
 - **Tools:** Git, VS Code, Intellij
